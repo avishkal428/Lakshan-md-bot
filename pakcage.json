@@ -1,23 +1,29 @@
 {
-"name": "Lakshan-md-bot",
-    "version": "0.0.1",
-    "description": "A multi functional whatsapp bot Web paircode.",
-    "main": "index.js",
-    "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name avishka",
-      "stop": "pm2 stop avishka",
-     "restart": "pm2 restart avishka"
-    },
+  "name": "LAKSHAN-MD",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot created using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --deep-monitoring --attach --LAKSHAN-MD-BOT",
+    "stop": "pm2 stop LAKSHAN-MD-BO",
+    "restart": "pm2 restart LAKSHAN-MD-BOT"
+  },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
-    "qrcode": "^1.5.3",
-    "awesome-phonenumber": "^2.64.0",
-    "pino": "^8.1.0",
-    "phone" : "3.1.30",
-    "body-parser": "^1.20.1",
-    "express": "^4.18.1",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "pino": "^7.0.5",
+    "pm2": "^5.2.0",
+    "util": "^0.12.4",
+    "express": "latest",
+    "axios": "^1.2.5",
+    "file_size_url": "^1.0.4",
+    "fs-extra": "^11.1.0",
     "path": "^0.12.7",
+    "node-fetch": "^2.6.1",
     "megajs": "^1.1.0",
-    "pm2": "^5.2.0"
-   }
+    "vm": "^0.1.0",
+    "qrcode-terminal": "^0.12.0"
+    "yt-search":"2.11.1"
+    "api-dylux":"1.8.5"
+  }
 }
