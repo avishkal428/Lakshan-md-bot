@@ -19,6 +19,6 @@ https://github.com/avishkal428/Lakshan-bot-PAIRWEB
  **[`Visit this site to easily deploy bots and get deployment videos`](https://Lakshan--md-official.vercel.app/)**
 
 
-**[PRABATH-MD OFFICIAL](https://Lakshan--md-official.vercel.app/)**
+**[LAKSHAN-MD OFFICIAL](https://Lakshan--md-official.vercel.app/)**
 <br>
 <br>
