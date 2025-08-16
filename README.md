@@ -5,7 +5,7 @@ A simple whatsapp bot
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=40&pause=1000&color=00FFD1&center=true&width=800&height=80&lines=Welcome+to+Manu-MD;Your+Smart+Group+Assistant;By+Manul+Official" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=40&pause=1000&color=00FFD1&center=true&width=800&height=80&lines=Welcome+to+Lakshan-MD;Your+Smart+Group+Assistant;By+Lakshan+Official" alt="Typing SVG" />
   </a>
 </div>
 
