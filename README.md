@@ -17,7 +17,7 @@ A simple whatsapp bot
 ### 👑 Main Developer
 
 <div align="center">
-  <img src="https://github.com/avishkal428/Lakshan-md-bot/blob/main/IMG-20250816-WA0006.jpg.jpg" width="160" style="border-radius: 15px;" />
+  <img src="https://github.com/avishkal428/Lakshan-md-bot/blob/main/IMG-20250816-WA0006.jpg" width="160" style="border-radius: 15px;" />
   <br><br>
   <strong>Manul Official</strong><br><br>
     <img src="https://img.shields.io/badge/YouTube-Manul%20Official-red?style=for-the-badge&logo=youtube" />
