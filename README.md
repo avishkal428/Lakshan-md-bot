@@ -17,7 +17,7 @@ A simple whatsapp bot
 ### 👑 Main Developer
 
 <div align="center">
-  <img src="https://i.ibb.co/Y7L525Xh/Manul-Ofc-X.jpg" width="160" style="border-radius: 15px;" />
+  <img src="https://photos.app.goo.gl/mpcfh5diVfc5R5WAA.jpg" width="160" style="border-radius: 15px;" />
   <br><br>
   <strong>Manul Official</strong><br><br>
     <img src="https://img.shields.io/badge/YouTube-Manul%20Official-red?style=for-the-badge&logo=youtube" />
