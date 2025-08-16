@@ -12,3 +12,19 @@ A simple whatsapp bot
 
 
   <img src="https://github.com/avishkal428/Lakshan-md-bot/blob/4c46edeef90f8530f3c2cc8088c415388cb648d9/IMG-20250807-WA0075.jpg"/>
+## 👨‍💻 Developer & Credits
+
+### 👑 Main Developer
+
+<div align="center">
+  <img src="https://i.ibb.co/Y7L525Xh/Manul-Ofc-X.jpg" width="160" style="border-radius: 15px;" />
+  <br><br>
+  <strong>Manul Official</strong><br><br>
+    <img src="https://img.shields.io/badge/YouTube-Manul%20Official-red?style=for-the-badge&logo=youtube" />
+  </a>
+  <a href="https://wa.me/94725337806">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp" />
+  </a>
+</div>
+
+---
