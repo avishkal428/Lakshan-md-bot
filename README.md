@@ -26,7 +26,7 @@ A simple whatsapp bot
 ### 👑 Main Developer
 
 <div align="center">
-  <img src="https://photos.app.goo.gl/8nco6iVknQqLpNTq9.jpg" width="160" style="border-radius: 15px;" />
+  <img src="https://photos.app.goo.gl/8nco6iVknQqLpNTq9.jpg" width="160" style="border-radius: 15px;"/>
   <br><br>
   <strong>LAKSHAN Official</strong><br><br>
   </a>
