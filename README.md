@@ -31,8 +31,7 @@ A simple whatsapp bot
   <strong>LAKSHAN Official</strong><br><br>
   </a>
   <a href="https://wa.me/94725337806">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp
-      jpg" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp" />
   </a>
 </div>
 
