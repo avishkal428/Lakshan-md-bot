@@ -4,9 +4,9 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --LAKSHAN-MD-BOT",
-    "stop": "pm2 stop LAKSHAN-MD-BO",
-    "restart": "pm2 restart LAKSHAN-MD-BOT"
+    "start": "pm2 start index.js --deep-monitoring --attach --LAKSHAN MD BOT",
+    "stop": "pm2 stop LAKSHAN MD BOT",
+    "restart": "pm2 restart LAKSHAN MD BOT"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
