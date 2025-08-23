@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting Lakshan-md-bot bot 🧬...");
+console.log("Connecting Lakshan bot 🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `Lakshan-md-bot connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `Lakshan bot connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://photos.app.goo.gl/KjfJKA4PZZzjUzyN6.jpg` }, caption: up })
 
